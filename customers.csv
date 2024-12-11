@@ -1,0 +1,101 @@
+CustomerID,Name,Phone,Address
+1,Andi Setiawan,081234567890,Jalan Merpati No 1
+2,Siti Nurhaliza,082345678901,Jalan Kenanga No 2
+3,Budi Santoso,083456789012,Jalan Melati No 3
+4,Rina Sari,084567890123,Jalan Cempaka No 4
+5,Agus Prasetyo,085678901234,Jalan Anggrek No 5
+6,Dewi Lestari,086789012345,Jalan Kenari No 6
+7,Fitriani,087890123456,Jalan Delima No 7
+8,Yudi Saputra,088901234567,Jalan Flamboyan No 8
+9,Nina Ayu,089012345678,Jalan Mawar No 9
+10,Reza Kurniawan,081098765432,Jalan Kamboja No 10
+11,Sandhi Prabowo,082109876543,Jalan Angsana No 11
+12,Lina Puspitasari,083210987654,Jalan Palem No 12
+13,Hendra Wijaya,084321098765,Jalan Kutilang No 13
+14,Ika Lestari,085432109876,Jalan Bunga No 14
+15,Arief Rahman,086543210987,Jalan Bima No 15
+16,Desi Fitriana,087654321098,Jalan Soka No 16
+17,Agung Wibowo,088765432109,Jalan Durian No 17
+18,Tina Rahayu,089876543210,Jalan Jati No 18
+19,Bambang Supriyadi,081234567891,Jalan Puspa No 19
+20,Putri Ayu,082345678902,Jalan Sinar No 20
+21,Danang Setiawan,083456789013,Jalan Sembawangan No 21
+22,Fauziyah,084567890124,Jalan Merpati No 22
+23,Arini Sari,085678901235,Jalan Cempaka No 23
+24,Kevin Prasetyo,086789012346,Jalan Anggrek No 24
+25,Nurul Hidayah,087890123457,Jalan Melati No 25
+26,Ilham Fadhilah,088901234568,Jalan Kenanga No 26
+27,Farhan Malik,089012345679,Jalan Flamboyan No 27
+28,Susanti,081098765433,Jalan Mawar No 28
+29,Reza Alamsyah,082109876544,Jalan Kamboja No 29
+30,Lia Rahmawati,083210987655,Jalan Angsana No 30
+31,Asep Hendra,084321098766,Jalan Palem No 31
+32,Nanda Putri,085432109877,Jalan Kutilang No 32
+33,Erwin Kurniawan,086543210988,Jalan Bunga No 33
+34,Cindy Lestari,087654321099,Jalan Bima No 34
+35,Denny Adrian,088765432100,Jalan Soka No 35
+36,Ayuni,089876543211,Jalan Durian No 36
+37,Hanafi,081234567892,Jalan Puspa No 37
+38,Indah Sari,082345678903,Jalan Sinar No 38
+39,Reza Oktavian,083456789014,Jalan Sembawangan No 39
+40,Putri Citra,084567890125,Jalan Merpati No 40
+41,Rizky Hidayat,085678901236,Jalan Cempaka No 41
+42,Fajar Prasetyo,086789012347,Jalan Anggrek No 42
+43,Nova Kurnia,087890123458,Jalan Melati No 43
+44,Dimas Rinaldi,088901234569,Jalan Kenanga No 44
+45,Sari Wulandari,089012345670,Jalan Flamboyan No 45
+46,Rudi Hartono,081098765434,Jalan Mawar No 46
+47,Desi Kurniawati,082109876545,Jalan Kamboja No 47
+48,Hendrik,083210987656,Jalan Angsana No 48
+49,Anita Puspa,084321098767,Jalan Palem No 49
+50,Budianto,085432109878,Jalan Kutilang No 50
+51,Shinta Rahayu,086543210989,Jalan Bunga No 51
+52,Rizki,087654321090,Jalan Bima No 52
+53,Aulia,088765432101,Jalan Soka No 53
+54,Arman,089876543212,Jalan Durian No 54
+55,Intan Lestari,081234567893,Jalan Puspa No 55
+56,Alif,082345678904,Jalan Sinar No 56
+57,Rama,083456789015,Jalan Sembawangan No 57
+58,Dina,084567890126,Jalan Merpati No 58
+59,Ilham,085678901237,Jalan Cempaka No 59
+60,Azhar,086789012348,Jalan Anggrek No 60
+61,Reta,087890123459,Jalan Melati No 61
+62,Budi,088901234570,Jalan Kenanga No 62
+63,Siti,089012345671,Jalan Flamboyan No 63
+64,Hani,081098765435,Jalan Mawar No 64
+65,Erik,082109876546,Jalan Kamboja No 65
+66,Omara,083210987657,Jalan Angsana No 66
+67,Alvin,084321098768,Jalan Palem No 67
+68,Maria,085432109879,Jalan Kutilang No 68
+69,Reza,086543210990,Jalan Bunga No 69
+70,Dion,087654321091,Jalan Bima No 70
+71,Yuni,088765432102,Jalan Soka No 71
+72,Agung,089876543213,Jalan Durian No 72
+73,Ilma,081234567894,Jalan Puspa No 73
+74,Rizal,082345678905,Jalan Sinar No 74
+75,Bintang,083456789016,Jalan Sembawangan No 75
+76,Meisya,084567890127,Jalan Merpati No 76
+77,Farid,085678901238,Jalan Cempaka No 77
+78,Putra,086789012349,Jalan Anggrek No 78
+79,Linda,087890123460,Jalan Melati No 79
+80,Arif,088901234571,Jalan Kenanga No 80
+81,Nina,089012345672,Jalan Flamboyan No 81
+82,Setiawan,081098765436,Jalan Mawar No 82
+83,Sari,082109876547,Jalan Kamboja No 83
+84,Adi,083210987658,Jalan Angsana No 84
+85,Dewi,084321098769,Jalan Palem No 85
+86,Anwar,085432109880,Jalan Bunga No 86
+87,Yuli,086543210991,Jalan Bima No 87
+88,Nadia,087654321092,Jalan Soka No 88
+89,Agus,088765432103,Jalan Durian No 89
+90,Andi,089876543214,Jalan Puspa No 90
+91,Reza,081234567895,Jalan Sinar No 91
+92,Dani,082345678906,Jalan Sembawangan No 92
+93,Putri,083456789017,Jalan Merpati No 93
+94,Hendra,084567890128,Jalan Cempaka No 94
+95,Lisa,085678901239,Jalan Anggrek No 95
+96,Armand,086789012350,Jalan Melati No 96
+97,Silvi,087890123461,Jalan Kenanga No 97
+98,Donny,088901234572,Jalan Flamboyan No 98
+99,Sabrina,089012345673,Jalan Mawar No 99
+100,Cahya,081098765437,Jalan Kamboja No 100
